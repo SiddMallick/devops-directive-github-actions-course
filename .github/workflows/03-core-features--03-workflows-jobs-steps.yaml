@@ -1,3 +1,4 @@
+# Github workflows can be divided into parallel and sequential jobs.
 name: Workflows, Jobs, and Steps
 
 on:
