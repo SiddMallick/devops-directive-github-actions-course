@@ -49,7 +49,7 @@ jobs:
     runs-on: ubuntu-24.04
     defaults:
       run:
-        working-directory: 04-advanced-features/caching/minimal-node-project
+        working-directory: 04-advanced-features/caching/minimal-node-project # Working directory where commands will run
 
     steps:
       - uses: actions/checkout@ff7abcd0c3c05ccf6adc123a8cd1fd4fb30fb493 # v5.0.0
